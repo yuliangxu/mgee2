@@ -1,0 +1,1 @@
+utils::globalVariables(c("file.out", "lower", "upper", "y"))
